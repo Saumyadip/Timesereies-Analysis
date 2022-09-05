@@ -9,3 +9,5 @@ The aim of this study is to forecast attrition using time series analysis at var
 The proposed solution is to compare various Time Series Forecasting techniques like ARIMA, Seasonal ARIMA, Exponential Smoothing, Holt-Winters, Moving Average, Ratio to Moving Average, based on Attrition Date of last 12 months at Enterprise level and drill-down by top contracts with further drill-down by employee levels, pay range & locations. The forecasted data will then be compared with the following 2 months attrition data to arrive at the best possible solution.
 
 What’s unique about this study is the use of timeseries forecasting technique to identify future attrition trends based on only attrition data. This forecasted data can be used to better workload management which will in turn reduce missed SLAs and penalties.
+
+Refer python code of ARIMA, SARIMAX & Holt-Winters, and exel for Moving Average, Ratio to Moving Average & Exponential Triple Smoothing using Excel's FORECAST.ETS function. 
