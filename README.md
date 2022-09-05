@@ -1,4 +1,4 @@
-# Timeseries-Analysis - Attriton Forecasting using only Attrition Data
+# Timeseries-Analysis - Attriton Forecasting using Attrition Data
 
 A specific line of business has been seeing a lot of attrition in the last couple of years. The average attrition is around 34% the for last 3 years which is way above the industry average. Time and again, it has struggled with managing a healthy attrition rate. As a result, there has been a constant occurrence of missed SLAs resulting in huge penalties. This has adversely affected customer feedback and employee morale as well. In extreme cases, the contracts were not renewed. High attrition is also a very expensive affair for a company. 
 
